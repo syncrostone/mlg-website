@@ -27,14 +27,17 @@ Here is the template. Make sure to set a unique name for your profile picture (t
 
 ### <Your Name>
 
-This is some text that describes your background and/or research interests. Please write at least a 3-4 of sentences. You can also link your website/twitter if you have one like this: [My website](https://www.<your_website>.com) [My Twitter](https://twitter.com/<twitter_profilename>)
+This is some text that describes your background and/or research interests. Mention who your advisor is, when you started, what you work on etc. Please write at least a 3-4 of sentences. You can also link your website or twitter if you have one like this: [My website](https://www.<your_website>.com) [My Twitter](https://twitter.com/<twitter_profilename>)
 ```
+
+Please put your profile under the appropriate category (faculty/post-doc/graduate student). You can look at others people's profiles for inspiration.
 
 4. Add your profile picture under `mlg-website/static/images`. Make sure that the filename matches the one you used in step 3.
 
 5. Once you are happy with the text and the image, commit it:
 
 ```
+git add content/members/_index.md
 git add static/images/<yourname>.jpg
 git commit -m '<Your Name> profile'
 git push
@@ -52,7 +55,7 @@ Post in the MS teams channel or contact the person maintaining the website.
 
 ## I have some recommendations for stylistic changes
 
-When deploying the website, we prioritized speed over looks to make sure that our prospective PhD applicants have up-to-date info. We first want to make sure that the website is functional, then we will make it look good. If you have any recommendations, please post them in the MS teams channel.
+When deploying the website, we prioritize speed over looks to make sure that our prospective PhD applicants have up-to-date info. We first want to make sure that the website is functional, then we will make it look good. If you have any recommendations, please post them in the MS teams channel.
 
 ## How do I run the deployment script? (advanced)
 
@@ -75,7 +78,4 @@ This tutorial may be helpful: https://gohugo.io/getting-started/quick-start/
 2. `./deploy.sh`
 
 This tutorial may be helpful: https://gohugo.io/hosting-and-deployment/hosting-on-github/
-
-
-
 

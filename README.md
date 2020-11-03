@@ -35,7 +35,7 @@ This is some text that describes your background and/or research interests. Plea
 5. Once you are happy with the text and the image, commit it:
 
 ```
-git add --all
+git add static/images/<yourname>.jpg
 git commit -m '<Your Name> profile'
 git push
 ```

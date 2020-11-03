@@ -44,3 +44,17 @@ Since Sep 2016, I am a University Lecturer (equivalent to US Assistant Professor
 
 ## Graduate students
 
+{{< figure src="/images/wessel.png" class="profile-image">}}
+
+### Wessel Bruinsma
+
+Hey, 👋🏼! My name is Wessel.
+I am a PhD student at the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Dr Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner), and a member of Christ's College.
+Previously, I was a machine learning researcher for [Invenia Labs](https://invenialabs.co.uk); they solve problems in the fields of machine learning, finance, electricity systems and markets, and complex systems.
+Even before that, I was an electrical engineer for the [TU Delft Solar Boat Team](http://www.solarboatteam.nl/). 
+
+I hold an MPhil in [Machine Learning and Machine Intelligence](http://www.mlsalt.eng.cam.ac.uk/) from the University of Cambridge and a BSc in [Electrical Engineering](https://www.tudelft.nl/en/education/programmes/bachelors/ee/bachelor-of-electrical-engineering/) from the University of Delft.
+My personal website can be found [here](https://wesselb.github.io/).
+
+My research interests include probabilistic modelling with a focus on Gaussian processes and approximate inference.
+

@@ -42,6 +42,16 @@ Since Sep 2016, I am a University Lecturer (equivalent to US Assistant Professor
 
 ## Post-docs
 
+{{< figure src="/images/tadel.jpg" class="profile-image">}}
+
+### Tameem Adel
+
+I am a research fellow in the Machine Learning Group at University of Cambridge, working with Prof. Zoubin Ghahramani and with Dr. Rich Turner. Before that, I was a postdoctoral researcher at the Amsterdam Machine Learning Lab (AMLAB), advised by Prof. Max Welling. I have obtained my PhD from the University of Waterloo, Ontario, Canada in 2014.
+
+My main research interests are circulated around probabilistic graphical models (PGMs), Bayesian inference and learning, interpretability and fairness of ML models, (deep) generative models, learning with weak supervision, especially transfer learning and domain adaptation, deep learning, reinforcement learning, continual learning, meta-learning and medical (especially MRI) applications of ML. 
+
+Here is my [Webpage](https://tameemadel.wordpress.com/).
+
 ## Graduate students
 
 {{< figure src="/images/wessel.png" class="profile-image">}}

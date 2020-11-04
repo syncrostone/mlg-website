@@ -4,6 +4,8 @@ description: "Past members"
 featured_image: ''
 ---
 
+[Niki Kilbertus (Group Leader, Helmholtz AI)](https://sites.google.com/view/nikikilbertus)
+
 [Cuong V. Nguyen (Applied Scientist, Amazon)](https://sites.google.com/site/nvcuong92/)
 
 [Mark Rowland (Research Scientist, DeepMind)](https://sites.google.com/corp/view/markrowland)

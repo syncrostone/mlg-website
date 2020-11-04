@@ -1,5 +1,5 @@
-title = "Cambridge Machine Learning Group"
-baseURL = "https://cambridge-mlg.github.io"
+title = "Home"
+baseURL = "http://mlg.eng.cam.ac.uk"
 languageCode = "en-us"
 theme = "ananke"
 

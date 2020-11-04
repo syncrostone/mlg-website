@@ -78,3 +78,17 @@ My work to date has focused on understanding the effects of approximate inferenc
 I started my PhD in 2018, and prior to that I obtained my BA and MEng in Information Engineering at the University of Cambridge.
 I tweet occasionally about my research [here](https://twitter.com/AndrewFoongYK). 
 
+
+{{< figure src="/images/austin-tripp.jpg" class="profile-image">}}
+
+### Austin Tripp
+
+I'm a PhD student (2019 start) supervised by Professor Hernández-Lobato, and
+a member of Girton College. My main research interest is creating machine
+learning methods for unique problems in the natural sciences, particularly
+chemistry. During my PhD I've been focusing on using generative models for drug
+discovery. Prior to studying at Cambridge I earned a BASc in [nanotechnology
+engineering](https://uwaterloo.ca/nanotechnology/) from the [University of
+Waterloo](https://uwaterloo.ca/) in Canada. More information can be found on my
+[personal website](austintripp.ca).
+

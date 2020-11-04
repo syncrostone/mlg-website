@@ -68,3 +68,13 @@ My personal website can be found [here](https://wesselb.github.io/).
 
 My research interests include probabilistic modelling with a focus on Gaussian processes and approximate inference.
 
+{{< figure src="/images/andrewfoong.png" class="profile-image">}}
+
+### Andrew Y. K. Foong
+
+I'm a PhD student supervised by [Professor Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner), and a member of Trinity Hall. 
+I work primarily on probabilistic modelling and deep learning. 
+My work to date has focused on understanding the effects of approximate inference in Bayesian neural networks, and on incorporating convolutional architectures into Neural Processes, which are used for meta-learning. 
+I started my PhD in 2018, and prior to that I obtained my BA and MEng in Information Engineering at the University of Cambridge.
+I tweet occasionally about my research [here](https://twitter.com/AndrewFoongYK). 
+

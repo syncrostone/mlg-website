@@ -102,3 +102,11 @@ engineering](https://uwaterloo.ca/nanotechnology/) from the [University of
 Waterloo](https://uwaterloo.ca/) in Canada. More information can be found on my
 [personal website](austintripp.ca).
 
+
+{{< figure src="/images/vincent_dutordoir.png" class="profile-image">}}
+
+### Vincent Dutordoir
+
+I'm a PhD student in Engineering (Machine Learning) at the University of Cambridge, working under the supervision of Professor Zoubin Ghahramani. I research probabilistic machine learning models for autonomous decision-making in dynamic and uncertain environments. In particular, I'm interested in Gaussian processes (GPs), and over the last couple of years, I have done research in adding more sophisticated model structures into the GP, like depth, convolutions and latent variables – leading to models that are both practically useful and statistically grounded. Prior to my PhD, I worked as a machine learning researcher at [Secondmind.ai](secondmind.ai), and before that I did my master in Computer Science Engineering at Ghent University in Belgium.
+
+You can find more information on [my personal webpage](https://vdutor.github.io/) and connect with me on [Twitter](https://twitter.com/vdutor).

@@ -62,6 +62,18 @@ My main research interests are circulated around probabilistic graphical models 
 
 Here is my [Webpage](https://tameemadel.wordpress.com/).
 
+{{< figure src="/images/john_bronskill.jpg" class="profile-image">}}
+
+### John Bronskill
+John Bronskill is a research assistant in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge under the supervision
+of [Prof. Richard E Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner). His research interests include machine
+learning, digital imaging, computer vision, and signal processing. He holds a Bachelor’s degree and a Master’s degree in
+Electrical Engineering from the University of Toronto and will soon be awarded a PhD degree from the
+University of Cambridge. Before joining the University of Cambridge, he co-founded ImageWare Research & Development which
+built special effects software for digital photos and video. The start-up was acquired by Microsoft where he worked for
+more than 20 years in various technical leadership and engineering management roles in the areas of digital imaging, computer
+graphics, and machine learning.
+
 ## Graduate students
 
 {{< figure src="/images/wessel.png" class="profile-image">}}

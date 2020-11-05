@@ -122,3 +122,15 @@ Waterloo](https://uwaterloo.ca/) in Canada. More information can be found on my
 I'm a PhD student in Engineering (Machine Learning) at the University of Cambridge, working under the supervision of Professor Zoubin Ghahramani. I research probabilistic machine learning models for autonomous decision-making in dynamic and uncertain environments. In particular, I'm interested in Gaussian processes (GPs), and over the last couple of years, I have done research in adding more sophisticated model structures into the GP, like depth, convolutions and latent variables – leading to models that are both practically useful and statistically grounded. Prior to my PhD, I worked as a machine learning researcher at [Secondmind.ai](secondmind.ai), and before that I did my master in Computer Science Engineering at Ghent University in Belgium.
 
 You can find more information on [my personal webpage](https://vdutor.github.io/) and connect with me on [Twitter](https://twitter.com/vdutor).
+
+
+### Gergely Flamich
+
+{{< figure src="/images/gergely_flamich.jpg" class="profile-image">}}
+
+I'm a PhD student working with Dr José Miguel Hernández-Lobato and a member of St John's College. 
+I am broadly interested in probabilistic modelling with a particular interest in data compression, unsupervised learning and variational inference. 
+I also work on multi-objective Bayesian optimization. Before starting my PhD in 2020, 
+I completed a Joint BSc (Hons) in Mathematics and Computer Science at the University of St Andrews and an MPhil in [Machine Learning and Machine Intelligence](http://www.mlsalt.eng.cam.ac.uk/) at the University of Cambridge, and worked for a year as a research assistant to Dr Hernández-Lobato at the CBL.
+
+
